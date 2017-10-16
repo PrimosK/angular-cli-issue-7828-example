@@ -8,6 +8,6 @@ You will see `hello` logged to the console.
 
 Now edit the `src/update.js` file, change it to something like `console.log('hello world');`. 
 
-Refresh the webpage - you should still see `hello` logged.
+Refresh the webpage - you should still see `hello` logged to the console.
 
 The Angular CLI used in this project is 1.4.2. which should based on this [comment](https://github.com/angular/angular-cli/issues/7828#issuecomment-333604019) resolve the issue but as demonstrated it doesn't.
